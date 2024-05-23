@@ -62,7 +62,7 @@ body {
     radial-gradient(circle, #f0f 0.5vmin, #0000 0) 13% 24%;
   background-size: 0.5vmin 0.5vmin;
   background-repeat: no-repeat;
-  animation: firework 1s ease-out 0s 1 forwards;
+  animation: firework 3s ease-out 0s 1 forwards;
 }
 
 .firework::before {
